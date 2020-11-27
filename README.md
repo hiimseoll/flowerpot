@@ -50,11 +50,17 @@
   + Fusion 360
   + CUBICON 3D 프린터
 
+#### 서버
+
++ 리눅스 우분투
+  + 아파치 HTTP 
+
 #### 웹
 
 + html/css
 + php
 + JavaScript
+
   
 
 
