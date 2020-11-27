@@ -46,6 +46,15 @@
   + 리튬 폴리머 배터리
   + 충방전 모듈(완충 보호)]
   + 태양전지판
++ 외관
+  + Fusion 360
+  + CUBICON 3D 프린터
+
+#### 웹
+
++ html/css
++ php
++ JavaScript
   
 
 
