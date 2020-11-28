@@ -7,11 +7,11 @@
 
 작 중 월-E가 식물이 다치지 않도록 소중히 다루는 모습에서 영감을 얻음.
 
-![Alt text](/imgs/walle-1.JPG)
+![walle_ex](/imgs/walle-1.JPG)
 
 
 ## 팀 화분 제작소
-![Alt text](/imgs/potFactoryLogo1.png)
+<img src="/imgs/potFactoryLogo1.png" width="100" height="100">
 
 ## 팀원:
 
@@ -66,7 +66,7 @@
 
 ### 연결도:
   
-![Alt text](/imgs/connection1.JPG)
+![connection1](/imgs/connection1.JPG)
 
 
 ### 기능 설명:
