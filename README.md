@@ -10,6 +10,9 @@
 ![Alt text](/imgs/walle-1.JPG)
 
 
+## 팀 화분 제작소
+![Alt text](/imgs/potFactoryLogo1.png)
+
 ## 팀원:
 
 ### 설동호 (팀장)
