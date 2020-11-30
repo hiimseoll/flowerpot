@@ -104,12 +104,11 @@
 ## 사진:
 
 
-<img src="/imgs/arduino1.jpg" width="300"><br>
-아두이노 제작과정
-<img src="/imgs/web1.png" width="300"><br>
-웹 인터페이스
-<img src="/imgs/model1.png" width="300"><br>
-3D 모델
+<img src="/imgs/arduino1.jpg" width="300"><br>아두이노 제작과정<br>
+
+<img src="/imgs/web1.png" width="300"><br>웹 인터페이스<br>
+
+<img src="/imgs/model1.png" width="300"><br>3D 모델<br>
 
 
 
