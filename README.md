@@ -102,9 +102,12 @@
 
 
 ## 사진:
-<img src="/imgs/arduino1.jpg" width="100" height="100"><br>
-<img src="/imgs/web1.png" width="100" height="100"><br>
-<img src="/imgs/model1.png" width="100" height="100"><br>
+
+
+![arduino1](/imgs/arduino1.jpg)
+![web1](/imgs/web1.png)
+![model1](/imgs/model1.png)
+
 
 
 
