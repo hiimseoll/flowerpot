@@ -101,6 +101,12 @@
 화분 밑부분을 열어 물통을 꺼내고 물을 다시 채울 수 있다.
 
 
+## 사진:
+<img src="/imgs/arduino1.jpg" width="100" height="100"><br>
+<img src="/imgs/web1.png" width="100" height="100"><br>
+<img src="/imgs/model1.png" width="100" height="100"><br>
+
+
 
 
 
