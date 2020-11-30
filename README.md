@@ -104,10 +104,9 @@
 ## 사진:
 
 
-![arduino1](/imgs/arduino1.jpg)
-![web1](/imgs/web1.png)
-![model1](/imgs/model1.png)
-
+<img src="/imgs/arduino1.jpg" width="300"><br>
+<img src="/imgs/web1.png" width="300"><br>
+<img src="/imgs/model1.png" width="300"><br>
 
 
 
