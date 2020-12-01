@@ -74,7 +74,7 @@
 ## 작동 과정:
 
 
-<img src="/imgs/ppt1.gif" width="300"> <img src="/imgs/model2.png" width="300">
+<img src="/imgs/ppt1.gif" width="600">
 
 
 ### 기능 설명:
