@@ -71,6 +71,12 @@
 ![connection1](/imgs/connection1.JPG)
 
 
+## 작동 과정:
+
+
+<img src="/imgs/ppt1.gif" width="300"> <img src="/imgs/model2.png" width="300">
+
+
 ### 기능 설명:
 
 #### 아두이노 (하드웨어):
