@@ -104,9 +104,9 @@
 ## 사진:
 
 
-<img src="/imgs/arduino1.jpg" width="200"><img src="/imgs/arduino4.jpg" width="200"><img src="/imgs/arduino3.jpg" width="200"><br><br>
+<img src="/imgs/arduino1.jpg" width="250"><img src="/imgs/arduino4.jpg" width="250"><img src="/imgs/arduino3.jpg" width="250"><br><br>
 
-<img src="/imgs/web1.png" width="200"> <img src="/imgs/web2.png" width="200"> <img src="/imgs/web3.png" width="200">
+<img src="/imgs/web1.png" width="250"> <img src="/imgs/web2.png" width="250"> <img src="/imgs/web3.png" width="250">
 
 <br>웹 인터페이스<br>
 
