@@ -129,4 +129,4 @@
 
 모델링 과정에서 블로워 팬의 크기를 잘못 측정해 최종 작품에는 장착하지 못했다.
 
-Q&A->[theseol16@gmail.com]
+Q&A-> [theseol16@gmail.com]
