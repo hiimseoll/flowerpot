@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiimseoll%2Fhiimseoll&count_bg=%237D3D9A&title_bg=%235C2323&icon=&icon_color=%23D34444&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-씨애랑 소프트웨어 전시회(2020) WALL-E [설동호 홍태성]
+씨애랑 소프트웨어 전시회(2020) WALL-E [설동호 홍태성] [우승]
 ==
 
 
